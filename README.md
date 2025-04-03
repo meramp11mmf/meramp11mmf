@@ -1,10 +1,13 @@
 
  <img src="https://github.com/user-attachments/assets/64f527d1-d769-4928-bf10-653e1ec54b20" alt="pp">
 
-<!-- Hero Typescript Title -->
+<!-- Hero Title -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2305982&size=25&center=true&vCenter=true&width=600&height=100&lines=If+data+is+batman,+call+me+robbin;+Junior+Data+Analyst;Junior+BI+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%2305982&size=25&center=true&vCenter=true&width=600&height=100&lines=Turning+data+into+stories+📊;Junior+Data+Analyst;Aspiring+Data+Engineer;Passionate+about+Data+&+Insights">
+  </a>
 </p>
+
 
 ##   Welcome to my GitHub👋!
 
