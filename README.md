@@ -1,17 +1,17 @@
 
-img src="{![pp](https://github.com/user-attachments/assets/64f527d1-d769-4928-bf10-653e1ec54b20)
-}" 
+ <img src="https://github.com/user-attachments/assets/64f527d1-d769-4928-bf10-653e1ec54b20" alt="pp">
 
 
-## Hi there 👋 Welcome to my GitHub!
+
+##   Welcome to my GitHub👋!
 
 I'm Maram, a passionate tech enthusiast exploring the world of Data Engineering. I love working with Python, diving into data analytics, and solving complex problems! 🚀🐍
 
-I’m always learning, building, and looking for exciting collaborations. Let’s connect! ☁️✨
+I’m always learning, building, and looking for exciting collaborations. Let’s connect! ☁️
 
 
 # 💫 About Me:
-🔭 I’m currently working on: Learning and building projects in Data Engineering<br>👯 I’m looking to collaborate on: Data engineering, analytics, and visualization projects<br>🤝 I’m looking for help with: Expanding my expertise in advanced data engineering tools and real-world applications<br>🌱 ⚡ Fun fact: I collect certifications like they’re Pokémon—gotta catch ’em all! 🎓😂
+🔭 I’m currently working on: Learning and building projects in Data Engineering<br> I’m looking to collaborate on: Data engineering, analytics, and visualization projects<br>🤝 I’m looking for help with: Expanding my expertise in advanced data engineering tools and real-world applications<br>🌱 ⚡ Fun fact: I collect certifications like they’re Pokémon—gotta catch ’em all! 🎓
 
 
 ## 🌐 Socials:
