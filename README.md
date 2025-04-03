@@ -1,9 +1,17 @@
-## Hi there 👋
 
-![image]({![image](https://github.com/user-attachments/assets/b3493526-5e30-4058-bc07-1380e2ade2c0)
-})
+img src="{![pp](https://github.com/user-attachments/assets/64f527d1-d769-4928-bf10-653e1ec54b20)
+}" 
+
+
+## Hi there 👋 Welcome to my GitHub!
+
+I'm Maram, a passionate tech enthusiast exploring the world of Data Engineering. I love working with Python, diving into data analytics, and solving complex problems! 🚀🐍
+
+I’m always learning, building, and looking for exciting collaborations. Let’s connect! ☁️✨
+
+
 # 💫 About Me:
-🔭 I’m currently working on: Learning and building projects in Data Engineering<br>👯 I’m looking to collaborate on: Data engineering, analytics, and visualization projects<br>🤝 I’m looking for help with: Expanding my expertise in advanced data engineering tools and real-world applications<br>🌱 I’m currently learning: Data Engineering<br>💬 Ask me about: Python, MySQL, data analysis, machine learning, and project planning<br>⚡ Fun fact: I collect certifications like they’re Pokémon—gotta catch ’em all! 🎓😂
+🔭 I’m currently working on: Learning and building projects in Data Engineering<br>👯 I’m looking to collaborate on: Data engineering, analytics, and visualization projects<br>🤝 I’m looking for help with: Expanding my expertise in advanced data engineering tools and real-world applications<br>🌱 ⚡ Fun fact: I collect certifications like they’re Pokémon—gotta catch ’em all! 🎓😂
 
 
 ## 🌐 Socials:
@@ -22,7 +30,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=meramp11mmf &icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
