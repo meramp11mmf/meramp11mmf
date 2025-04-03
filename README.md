@@ -153,4 +153,5 @@ I enjoy working with **Python**, exploring **data analytics**, and solving probl
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+![snake gif](https://github.com/meramp11mmf/meramp11mmf/blob/output/github-contribution-grid-snake.gif)
 
