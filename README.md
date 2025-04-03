@@ -40,7 +40,7 @@ I enjoy working with **Python**, exploring **data analytics**, and solving probl
 <div id="user-content-toc">
   <ul align="center">
     <summary style="margin-bottom: 50px;">
-      <h1 style="display: inline-block">Tech Arsenal </h1>
+      <h1 style="display: inline-block">Tech Stack </h1>
       <picture>
         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
       </picture>
